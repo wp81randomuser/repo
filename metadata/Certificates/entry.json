@@ -1,0 +1,27 @@
+{
+  "id": "Microsoft.CertificateManager",
+  "title": "Certificates",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClientServer",
+    "sharedUserCertificates"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "app_file": "Certificates v1.0.0.0.appx"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Certificates/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Certificates",
+    "ru": "Сертификаты"
+  },
+  "creator": "Microsoft Corporation",
+  "category": "tools"
+}

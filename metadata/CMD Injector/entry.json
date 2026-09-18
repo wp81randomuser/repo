@@ -1,0 +1,25 @@
+{
+  "id": "{87611e4e-f9f7-411b-aca9-d24a1e001ab0}",
+  "title": "CMD Injector (WP8)",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_RUNTIME_CONFIG"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.3.0.0",
+      "app_file": "CMDInjector_WP8_v1.3.0.0_Release_ARM.xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/CMD Injector/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "",
+    "ru": ""
+  },
+  "category": "tools"
+}

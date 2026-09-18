@@ -1,0 +1,27 @@
+{
+  "id": "{fcd1471f-9d1a-4e87-bafe-3572d2411f85}",
+  "title": "Gismeteo",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_IDENTITY_DEVICE",
+    "ID_CAP_LOCATION",
+    "ID_CAP_NETWORKING"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "app_file": "Gismeteo_v1.1.0.0.xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Gismeteo/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Weather",
+    "ru": "Погода"
+  },
+  "category": "news+weather"
+}

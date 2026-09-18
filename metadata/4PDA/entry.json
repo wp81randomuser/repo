@@ -1,0 +1,25 @@
+{
+  "id": "18f89a63-3392-4c4d-aeb8-e19b932d1187",
+  "title": "4PDA",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClientServer"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "app_file": "1770_4PDA_1.0.0.0_AnyCPU.appx"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/4PDA/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "4pda client",
+    "ru": "Клиент 4пда"
+  },
+  "category": "news+weather"
+}

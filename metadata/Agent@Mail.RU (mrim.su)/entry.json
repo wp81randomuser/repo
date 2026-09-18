@@ -1,0 +1,28 @@
+{
+  "id": "{65e4ff35-7b57-4f74-91d4-8e67817067cc}",
+  "title": "MobileAgent",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_CONTACTS",
+    "ID_CAP_IDENTITY_DEVICE",
+    "ID_CAP_IDENTITY_USER",
+    "ID_CAP_MEDIALIB",
+    "ID_CAP_NETWORKING",
+    "ID_CAP_PHONEDIALER",
+    "ID_CAP_PUSH_NOTIFICATION",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.5.1.583",
+      "app_file": "Agent@Mail.ru.xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Agent@Mail.RU (mrim.su)/",
+  "summary": {
+    "en": "Mail.Ru Agent client patched to mrim.su",
+    "ru": "Клиент Майл.Ру Агента, патченный под mrim.su"
+  },
+  "category": "social"
+}

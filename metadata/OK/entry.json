@@ -1,0 +1,37 @@
+{
+  "id": "{7ed8d95a-73a9-41d0-bf77-b3bc657db7f4}",
+  "title": "ОК",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_IDENTITY_DEVICE",
+    "ID_CAP_IDENTITY_USER",
+    "ID_CAP_LOCATION",
+    "ID_CAP_MICROPHONE",
+    "ID_CAP_NETWORKING",
+    "ID_CAP_PHONEDIALER",
+    "ID_CAP_PUSH_NOTIFICATION",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PHOTO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_ISV_CAMERA"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "4.9.1.0",
+      "app_file": "Odnoklassniki_v4.9.1.0.xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/OK/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Official Odnoklassniki client",
+    "ru": "Официальный клиент Одноклассников"
+  },
+  "category": "social"
+}

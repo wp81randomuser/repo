@@ -1,0 +1,28 @@
+{
+  "id": "{A7C4E1D2-3F8B-4A96-B5E0-9D2C6F1B4A73}",
+  "title": "Lumigram",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_LOCATION",
+    "ID_CAP_MEDIALIB_PHOTO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_REMOVABLE_STORAGE",
+    "ID_CAP_ISV_CAMERA",
+    "ID_CAP_MICROPHONE"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.1.0.46",
+      "app_file": "Lumigram_1.1.0.46.xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Lumigram/",
+  "summary": {
+    "en": "Unofficial Telegram client",
+    "ru": "Неофициальный клиент Телеграмма"
+  },
+  "creator": "symnok",
+  "category": "social"
+}

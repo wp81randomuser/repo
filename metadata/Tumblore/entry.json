@@ -1,0 +1,33 @@
+{
+  "id": "{3c6c8cbe-1f46-4683-bdf8-fee311609e66}",
+  "title": "Tumblore",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_IDENTITY_DEVICE",
+    "ID_CAP_IDENTITY_USER",
+    "ID_CAP_MEDIALIB_PHOTO",
+    "ID_CAP_PHONEDIALER"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "2.8.0.46",
+      "app_file": "Tumblore.xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Tumblore/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Unofficial Tumblr client",
+    "ru": "Неофициальный клиент Тамблера"
+  },
+  "category": "social"
+}

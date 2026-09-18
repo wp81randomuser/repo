@@ -1,0 +1,27 @@
+{
+  "id": "DoubleGISLLC.2GIS",
+  "title": "2GIS",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClientServer",
+    "location"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "4.16.11.3",
+      "app_file": "2GIS_v4_16_11_3.appxbundle"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/2GIS/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Maps",
+    "ru": "Карты"
+  },
+  "creator": "2gis",
+  "category": "livestyle"
+}

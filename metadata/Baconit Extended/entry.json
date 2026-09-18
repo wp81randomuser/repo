@@ -1,0 +1,31 @@
+{
+  "id": "{fa4e749a-a521-43f1-b2cd-40bd1a0a8875}",
+  "title": "Baconit Extended",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_IDENTITY_DEVICE",
+    "ID_CAP_MEDIALIB_PHOTO",
+    "ID_CAP_PUSH_NOTIFICATION",
+    "ID_CAP_PROXIMITY"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.7.1",
+      "app_file": "Baconit Extended.xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Baconit Extended/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Reddit reader",
+    "ru": "Читалка Реддита"
+  },
+  "category": "social"
+}

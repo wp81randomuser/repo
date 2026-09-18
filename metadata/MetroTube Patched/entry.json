@@ -1,0 +1,27 @@
+{
+  "id": "{8d93224f-2808-e011-9264-00237de2db9e}",
+  "title": "MetroTube",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_MEDIALIB_PLAYBACK"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.3.204.0",
+      "app_file": "1954_MetroTube_Patched.xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/MetroTube Patched/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Patched Youtube client",
+    "ru": "Патченный клиент Ютуба"
+  },
+  "category": "music+video"
+}

@@ -1,0 +1,284 @@
+{
+  "repo_name": "wparchive",
+  "creator": "denezgo",
+  "last_updated": "09-19-2026",
+  "format": 1,
+  "packages": {
+    "16857IstvanFarmosi.zbox": {
+      "latest_version": "2016.3.25.3",
+      "title": "zbox",
+      "app_type": "winrt",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Zbox/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Zune-styled music player",
+        "ru": "Музыкальный плеер в стиле zune"
+      },
+      "category": "music+video"
+    },
+    "{8f6154d6-1b70-431a-a579-b6a43477e837}": {
+      "latest_version": "1.0.0.0",
+      "title": "PDF Reader",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/PDF Reader/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "PDF reader",
+        "ru": "Читалка ПДФ-ок"
+      },
+      "category": "entertaintment"
+    },
+    "{56ad9c3d-fe0a-4ceb-84b0-043e58e55b19}": {
+      "latest_version": "2.8.0.0",
+      "title": "File Manager",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Pocket File Manager/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Explorer (rooted)",
+        "ru": "Проводник (рут)"
+      },
+      "category": "tools"
+    },
+    "Microsoft.CertificateManager": {
+      "latest_version": "1.0.0.0",
+      "title": "Certificates",
+      "app_type": "winrt",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Certificates/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Certificates",
+        "ru": "Сертификаты"
+      },
+      "category": "tools"
+    },
+    "18f89a63-3392-4c4d-aeb8-e19b932d1187": {
+      "latest_version": "1.0.0.0",
+      "title": "4PDA",
+      "app_type": "winrt",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/4PDA/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "4pda client",
+        "ru": "Клиент 4пда"
+      },
+      "category": "news+weather"
+    },
+    "2FE3CB00.PicsArt-PhotoStudio": {
+      "latest_version": "2.8.4.0",
+      "title": "PicsArt - Photo Studio",
+      "app_type": "winrt",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/PicsArt/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "",
+        "ru": ""
+      },
+      "category": "photo"
+    },
+    "DoubleGISLLC.2GIS": {
+      "latest_version": "4.16.11.3",
+      "title": "2GIS",
+      "app_type": "winrt",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/2GIS/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Maps",
+        "ru": "Карты"
+      },
+      "category": "livestyle"
+    },
+    "{3c6c8cbe-1f46-4683-bdf8-fee311609e66}": {
+      "latest_version": "2.8.0.46",
+      "title": "Tumblore",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Tumblore/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Unofficial Tumblr client",
+        "ru": "Неофициальный клиент Тамблера"
+      },
+      "category": "social"
+    },
+    "BooStudioLLC.8ZipNew": {
+      "latest_version": "1.1.0.14",
+      "title": "8 Zip",
+      "app_type": "winrt",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/8Zip/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Utillity for archives",
+        "ru": "Утилита для работы с архивами"
+      },
+      "category": "tools"
+    },
+    "ru.computershik.lovit": {
+      "latest_version": "1.1.0.152",
+      "title": "Ловит",
+      "app_type": "winrt",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Lovit/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Unofficial MAX client",
+        "ru": "Неофициальный клиент МАКСа"
+      },
+      "category": "social"
+    },
+    "{fa4e749a-a521-43f1-b2cd-40bd1a0a8875}": {
+      "latest_version": "1.7.1",
+      "title": "Baconit Extended",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Baconit Extended/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Reddit reader",
+        "ru": "Читалка Реддита"
+      },
+      "category": "social"
+    },
+    "{1c4bd564-5426-417b-a5a0-e141abe6f858}": {
+      "latest_version": "5.27",
+      "title": "VK Patched",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/VK Patched/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "VK client patched to OpenVK",
+        "ru": "Клиент ВК, патченный под OpenVK"
+      },
+      "category": "social"
+    },
+    "{27d6a090-50d2-4337-88cb-41d97597757a}": {
+      "latest_version": "0.5.0.0",
+      "title": "CustomPFD Registry Editor + Tweaks",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/CustomPFD Registry Editor/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Registry editor",
+        "ru": "Редактор реестра"
+      },
+      "category": "tools"
+    },
+    "{8d93224f-2808-e011-9264-00237de2db9e}": {
+      "latest_version": "1.3.204.0",
+      "title": "MetroTube",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/MetroTube Patched/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Patched Youtube client",
+        "ru": "Патченный клиент Ютуба"
+      },
+      "category": "music+video"
+    },
+    "a9807cb4-cb6e-43f4-8f8a-7b52ecf1b576": {
+      "latest_version": "1.3.0.3",
+      "title": "MetroSurf",
+      "app_type": "winrt",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/MetroSurf/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Almost modern browser",
+        "ru": "Почти современный браузер"
+      },
+      "category": "livestyle"
+    },
+    "{87611e4e-f9f7-411b-aca9-d24a1e001ab0}": {
+      "latest_version": "1.3.0.0",
+      "title": "CMD Injector (WP8)",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/CMD Injector/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "",
+        "ru": ""
+      },
+      "category": "tools"
+    },
+    "{f5874252-1f04-4c3f-a335-4fa3b7b85329}": {
+      "latest_version": "4.5.3.477",
+      "title": "MixRadio Patched",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/MixRadio Patched/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Revivle of MixRadio",
+        "ru": "Ревайвл MixRadio"
+      },
+      "category": "music+video"
+    },
+    "{c3f8e570-68b3-4d6a-bdbb-c0a3f4360a51}": {
+      "latest_version": "2.32.0.48",
+      "title": "Skype",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Skype Community Patched/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Skype client patched to skype.dev",
+        "ru": "Клиент Скайпа пропатченный под skype.dev"
+      },
+      "category": "social"
+    },
+    "{7ed8d95a-73a9-41d0-bf77-b3bc657db7f4}": {
+      "latest_version": "4.9.1.0",
+      "title": "ОК",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/OK/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Official Odnoklassniki client",
+        "ru": "Официальный клиент Одноклассников"
+      },
+      "category": "social"
+    },
+    "{fcd1471f-9d1a-4e87-bafe-3572d2411f85}": {
+      "latest_version": "1.0.0.0",
+      "title": "Gismeteo",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Gismeteo/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Weather",
+        "ru": "Погода"
+      },
+      "category": "news+weather"
+    },
+    "{A7C4E1D2-3F8B-4A96-B5E0-9D2C6F1B4A73}": {
+      "latest_version": "1.1.0.46",
+      "title": "Lumigram",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Lumigram/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Unofficial Telegram client",
+        "ru": "Неофициальный клиент Телеграмма"
+      },
+      "category": "social"
+    },
+    "Microsoft.MSFileManager": {
+      "latest_version": "1.0.0.0",
+      "title": "Files",
+      "app_type": "winrt",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Files/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Explorer",
+        "ru": "Проводник"
+      },
+      "category": "tools"
+    },
+    "{65e4ff35-7b57-4f74-91d4-8e67817067cc}": {
+      "latest_version": "1.5.1.583",
+      "title": "MobileAgent",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Agent@Mail.RU (mrim.su)/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Mail.Ru Agent client patched to mrim.su",
+        "ru": "Клиент Майл.Ру Агента, патченный под mrim.su"
+      },
+      "category": "social"
+    }
+  }
+}

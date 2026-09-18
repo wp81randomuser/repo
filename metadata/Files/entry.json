@@ -1,0 +1,24 @@
+{
+  "id": "Microsoft.MSFileManager",
+  "title": "Files",
+  "icon": "icon.png",
+  "capabilities": [],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "app_file": "MSFileManager_2014.523.1121.3909.appxbundle"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Files/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Explorer",
+    "ru": "Проводник"
+  },
+  "creator": "Microsoft Corporation",
+  "category": "tools"
+}

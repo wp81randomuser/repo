@@ -1,0 +1,33 @@
+{
+  "id": "16857IstvanFarmosi.zbox",
+  "title": "zbox",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClient",
+    "internetClientServer",
+    "privateNetworkClientServer",
+    "musicLibrary",
+    "picturesLibrary",
+    "videosLibrary",
+    "removableStorage",
+    "documentsLibrary",
+    "sharedUserCertificates"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "2016.3.25.3",
+      "app_file": "zbox_v2016.3.25.3.appxbundle"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Zbox/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Zune-styled music player",
+    "ru": "Музыкальный плеер в стиле zune"
+  },
+  "category": "music+video"
+}

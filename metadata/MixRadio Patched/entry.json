@@ -1,0 +1,44 @@
+{
+  "id": "{f5874252-1f04-4c3f-a335-4fa3b7b85329}",
+  "title": "MixRadio Patched",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_LOCATION",
+    "ID_CAP_IDENTITY_DEVICE",
+    "ID_CAP_IDENTITY_USER",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_OEMPUBLICDIRECTORY",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_INTEROPSERVICES",
+    "ID_CAP_CELL_API_COMMON",
+    "ID_CAP_CELL_API_UICC",
+    "ID_CAP_CELL_API_UICC_LOWLEVEL",
+    "ID_CAP_CELL_API_LOCATION",
+    "ID_CAP_CELL_API_OEM_PASSTHROUGH",
+    "ID_CAP_CELL_WNF",
+    "ID_CAP_OEM_DEPLOYMENT",
+    "ID_CAP_MEDIALIB_PHOTO",
+    "ID_CAP_PUSH_NOTIFICATION",
+    "ID_CAP_SPEECH_RECOGNITION",
+    "ID_CAP_MICROPHONE"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "4.5.3.477",
+      "app_file": "1774_MixRadio_Bridge.xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/MixRadio Patched/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Revivle of MixRadio",
+    "ru": "Ревайвл MixRadio"
+  },
+  "category": "music+video"
+}

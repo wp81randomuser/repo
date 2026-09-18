@@ -1,0 +1,25 @@
+{
+  "id": "a9807cb4-cb6e-43f4-8f8a-7b52ecf1b576",
+  "title": "MetroSurf",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClientServer"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "1.3.0.3",
+      "app_file": "1844_MetroSurf1_3.appx"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/MetroSurf/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Almost modern browser",
+    "ru": "Почти современный браузер"
+  },
+  "category": "livestyle"
+}

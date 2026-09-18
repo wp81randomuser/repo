@@ -1,0 +1,31 @@
+{
+  "id": "ru.computershik.lovit",
+  "title": "Ловит",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClientServer",
+    "picturesLibrary",
+    "musicLibrary",
+    "videosLibrary",
+    "removableStorage",
+    "microphone",
+    "webcam"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "1.1.0.152",
+      "app_file": "Lovit_1.1.0.152_ARM.appx"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Lovit/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Unofficial MAX client",
+    "ru": "Неофициальный клиент МАКСа"
+  },
+  "category": "social"
+}

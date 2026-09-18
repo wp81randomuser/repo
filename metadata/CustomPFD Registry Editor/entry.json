@@ -1,0 +1,46 @@
+{
+  "id": "{27d6a090-50d2-4337-88cb-41d97597757a}",
+  "title": "CustomPFD Registry Editor + Tweaks",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_MEDIALIB_PHOTO",
+    "ID_CAP_MEDIALIB_PHOTO_FULL",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_INTEROPSERVICES",
+    "ID_CAP_CSP_FOUNDATION",
+    "ID_CAP_CSP_OEM",
+    "ID_CAP_CSP_W4_APPLICATION",
+    "ID_CAP_REMOVABLE_STORAGE",
+    "ID_CAP_PUSH_NOTIFICATION",
+    "ID_CAP_OEMPUBLICDIRECTORY",
+    "ID_CAP_DEVICE_MANAGEMENT_SECURITY_POLICIES",
+    "ID_CAP_DEVICE_MANAGEMENT_ADMIN",
+    "ID_CAP_RUNTIME_CONFIG"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "0.5.0.0",
+      "app_file": "1839_CustomPFD_0600.xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/CustomPFD Registry Editor/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Registry editor",
+    "ru": "Редактор реестра"
+  },
+  "category": "tools"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "{8f6154d6-1b70-431a-a579-b6a43477e837}",
+  "title": "PDF Reader",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "app_file": "PDF Reader.xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/PDF Reader/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "PDF reader",
+    "ru": "Читалка ПДФ-ок"
+  },
+  "category": "entertaintment"
+}

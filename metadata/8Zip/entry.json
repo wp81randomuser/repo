@@ -1,0 +1,23 @@
+{
+  "id": "BooStudioLLC.8ZipNew",
+  "title": "8 Zip",
+  "icon": "icon.png",
+  "capabilities": [],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "1.1.0.14",
+      "app_file": "8 Zip.appxbundle"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/8Zip/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Utillity for archives",
+    "ru": "Утилита для работы с архивами"
+  },
+  "category": "tools"
+}

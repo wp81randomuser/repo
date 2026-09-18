@@ -1,0 +1,38 @@
+{
+  "id": "{1c4bd564-5426-417b-a5a0-e141abe6f858}",
+  "title": "VK Patched",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_IDENTITY_DEVICE",
+    "ID_CAP_IDENTITY_USER",
+    "ID_CAP_LOCATION",
+    "ID_CAP_NETWORKING",
+    "ID_CAP_PHONEDIALER",
+    "ID_CAP_PUSH_NOTIFICATION",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_ISV_CAMERA",
+    "ID_CAP_CONTACTS",
+    "ID_CAP_APPOINTMENTS",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PHOTO",
+    "ID_CAP_MEDIALIB_PLAYBACK"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "5.27",
+      "app_file": "1805_VKClient_Release_ARM.xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/VK Patched/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "VK client patched to OpenVK",
+    "ru": "Клиент ВК, патченный под OpenVK"
+  },
+  "category": "social"
+}
