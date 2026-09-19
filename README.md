@@ -6,7 +6,7 @@
 
 ## Адрес репозитория
 ### MEMarket
-`https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/`
+`https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/index.json`
 
 ## Вопросы?
 Их нету! И не будет!
