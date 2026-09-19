@@ -6,6 +6,7 @@
 
 ## Адрес репозитория
 ### MEMarket
+> Сокращённая ссылка: `https://clck.ru/3VvHZ3`
 `https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/index.json`
 
 ## Вопросы?
