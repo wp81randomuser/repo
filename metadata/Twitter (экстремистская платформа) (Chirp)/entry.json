@@ -1,0 +1,27 @@
+{
+  "id": "{0b792c7c-14dc-df11-a844-00237de2db9e}",
+  "title": "Twitter",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_IDENTITY_DEVICE",
+    "ID_CAP_IDENTITY_USER",
+    "ID_CAP_LOCATION",
+    "ID_CAP_NETWORKING",
+    "ID_CAP_PUSH_NOTIFICATION",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_CONTACTS",
+    "ID_CAP_MICROPHONE",
+    "ID_CAP_SPEECH_RECOGNITION",
+    "ID_CAP_MAP",
+    "ID_CAP_MEDIALIB_PHOTO",
+    "ID_CAP_ISV_CAMERA"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "3.2.3.0",
+      "app_file": "twitter chirp.xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Twitter (экстремистская платформа) (Chirp)/"
+}
