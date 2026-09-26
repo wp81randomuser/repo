@@ -1,6 +1,6 @@
 {
   "id": "{0b792c7c-14dc-df11-a844-00237de2db9e}",
-  "title": "Twitter",
+  "title": "Twitter (экстремистская платформа) (Chirp)",
   "icon": "icon.png",
   "capabilities": [
     "ID_CAP_IDENTITY_DEVICE",
@@ -20,8 +20,13 @@
   "versions": [
     {
       "version": "3.2.3.0",
-      "app_file": "twitter chirp.xap"
+      "app_file": "twitter.xap"
     }
   ],
-  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Twitter (экстремистская платформа) (Chirp)/"
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Twitter (экстремистская платформа) (Chirp)/",
+  "summary": {
+    "en": "Twitter (экстремистская платформа) client patched to chirppp.ing",
+    "ru": "Клиент Твиттера (экстремистская платформа), патченный на chirppp.ing"
+  },
+  "category": "social"
 }

@@ -184,12 +184,29 @@
       },
       "category": "livestyle"
     },
+    "{99661466-8c5c-489b-a567-569c1f480d29}": {
+      "latest_version": "1.0.5",
+      "title": "Linphone",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Linphone/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "SIP client",
+        "ru": "Клиент SIP"
+      },
+      "category": "social"
+    },
     "{0b792c7c-14dc-df11-a844-00237de2db9e}": {
       "latest_version": "3.2.3.0",
-      "title": "Twitter",
+      "title": "Twitter (экстремистская платформа) (Chirp)",
       "app_type": "silverlight",
       "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Twitter (экстремистская платформа) (Chirp)/",
-      "icon": "icon.png"
+      "icon": "icon.png",
+      "summary": {
+        "en": "Twitter (экстремистская платформа) client patched to chirppp.ing",
+        "ru": "Клиент Твиттера (экстремистская платформа), патченный на chirppp.ing"
+      },
+      "category": "social"
     },
     "{87611e4e-f9f7-411b-aca9-d24a1e001ab0}": {
       "latest_version": "1.3.0.0",
