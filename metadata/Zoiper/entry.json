@@ -1,0 +1,32 @@
+{
+  "id": "{9cc16f11-b78b-437d-87ec-578fa1660737}",
+  "title": "Zoiper",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_CONTACTS",
+    "ID_CAP_IDENTITY_USER",
+    "ID_CAP_IDENTITY_DEVICE",
+    "ID_CAP_MICROPHONE",
+    "ID_CAP_VOIP",
+    "ID_CAP_PUSH_NOTIFICATION",
+    "ID_CAP_ISV_CAMERA",
+    "ID_CAP_PHONEDIALER",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.0.4.4",
+      "app_file": "Zoiper v1.0.4.4 (Mivas).xap"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Zoiper/",
+  "summary": {
+    "en": "SIP client",
+    "ru": "Клиент SIP"
+  },
+  "category": "social"
+}

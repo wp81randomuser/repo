@@ -64,6 +64,18 @@
       },
       "category": "news+weather"
     },
+    "{9cc16f11-b78b-437d-87ec-578fa1660737}": {
+      "latest_version": "1.0.4.4",
+      "title": "Zoiper",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Zoiper/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "SIP client",
+        "ru": "Клиент SIP"
+      },
+      "category": "social"
+    },
     "2FE3CB00.PicsArt-PhotoStudio": {
       "latest_version": "2.8.4.0",
       "title": "PicsArt - Photo Studio",
@@ -183,18 +195,6 @@
         "ru": "Почти современный браузер"
       },
       "category": "livestyle"
-    },
-    "{99661466-8c5c-489b-a567-569c1f480d29}": {
-      "latest_version": "1.0.5",
-      "title": "Linphone",
-      "app_type": "silverlight",
-      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/Linphone/",
-      "icon": "icon.png",
-      "summary": {
-        "en": "SIP client",
-        "ru": "Клиент SIP"
-      },
-      "category": "social"
     },
     "{0b792c7c-14dc-df11-a844-00237de2db9e}": {
       "latest_version": "3.2.3.0",

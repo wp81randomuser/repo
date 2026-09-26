@@ -1,6 +1,6 @@
 # title - the name of app. Uncomment this if you are not satisfied with the application name
 # from the package manifest.
-title: "Linphone"
+title: "Zoiper"
 
 summary:
   en: "SIP client"
