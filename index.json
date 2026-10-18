@@ -1,7 +1,7 @@
 {
   "repo_name": "wprepo",
   "creator": "denezgo",
-  "last_updated": "09-26-2026",
+  "last_updated": "10-18-2026",
   "format": 1,
   "packages": {
     "16857IstvanFarmosi.zbox": {
@@ -148,18 +148,6 @@
       },
       "category": "social"
     },
-    "{1c4bd564-5426-417b-a5a0-e141abe6f858}": {
-      "latest_version": "5.27",
-      "title": "VK Patched",
-      "app_type": "silverlight",
-      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/VK Patched/",
-      "icon": "icon.png",
-      "summary": {
-        "en": "VK client patched to OpenVK",
-        "ru": "Клиент ВК, патченный под OpenVK"
-      },
-      "category": "social"
-    },
     "{27d6a090-50d2-4337-88cb-41d97597757a}": {
       "latest_version": "0.5.0.0",
       "title": "CustomPFD Registry Editor + Tweaks",
@@ -208,6 +196,18 @@
       },
       "category": "social"
     },
+    "{83538e87-633b-5989-892d-24bfc614b919}": {
+      "latest_version": "4.12",
+      "title": "VK (VKPatched)",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/VK (VKPatched)/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "VK client patched to VK",
+        "ru": "Клиент ВК, патченный под сам ВК"
+      },
+      "category": "social"
+    },
     "{87611e4e-f9f7-411b-aca9-d24a1e001ab0}": {
       "latest_version": "1.3.0.0",
       "title": "CMD Injector (WP8)",
@@ -241,6 +241,18 @@
       "summary": {
         "en": "Skype client patched to skype.dev",
         "ru": "Клиент Скайпа пропатченный под skype.dev"
+      },
+      "category": "social"
+    },
+    "{1c4bd564-5426-417b-a5a0-e141abe6f858}": {
+      "latest_version": "5.27",
+      "title": "VK (OpenVK)",
+      "app_type": "silverlight",
+      "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/VK (OpenVK)/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "VK client patched to OpenVK",
+        "ru": "Клиент ВК, патченный под OpenVK"
       },
       "category": "social"
     },
