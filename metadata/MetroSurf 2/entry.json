@@ -1,0 +1,25 @@
+{
+  "id": "165a3d1d-e20f-4428-af32-f2bbd9284e7f",
+  "title": "MetroSurf 2",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClientServer"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "1.0.0.5",
+      "app_file": "MetroSurf_2.appx"
+    }
+  ],
+  "app_url": "https://raw.githubusercontent.com/wp81randomuser/repo/refs/heads/main/metadata/MetroSurf 2/",
+  "description": {
+    "en": "",
+    "ru": ""
+  },
+  "summary": {
+    "en": "Modern WebKit-based browser",
+    "ru": "Современный браузер на основе движка WebKit"
+  },
+  "category": "livestyle"
+}
